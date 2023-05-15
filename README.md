@@ -9,9 +9,5 @@
 - เปรียบเทียบ model YOLOv5, YOLOv8 50 epoch และ 75 epoch
 ![75](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/789baa86-3726-433f-a7cd-0ea1b2e5ebb8)
 	
-	mAPE 50-95	
-	50	75
-YOLOv5	0.909	0.943
-YOLOv8	0.804	0.878
 ![image](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/1f461288-62e3-4435-a6c4-748e7252724f)
 
