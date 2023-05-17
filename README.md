@@ -2,10 +2,14 @@
 ## วัตถุประสงค์
 สร้าง object detection model สำหรับ การแยกสายพันธ์ุมะม่วง
 ## Data
-ข้อมูลมะม่วงจากตลาดไททั้งหมดสามสายพันธุ์ ได้แก่ 1. เขียวเสวย 167 ลูก, 2. แก้วขมิ้น 186 ลูก, 3.น้ำดอกไม้ 15 ลูก รวม 368 ลูก
+ชุดข้อมูลประกอบด้วยภาพมะม่วงจากตลาดไทย ที่ประกอบด้วยสามสายพันธุ์:
+1. เขียวเสวย: 167 ภาพ
+2. แก้วขมิ้น: 186 ภาพ
+3. น้ำดอกไม้: 15 ภาพ
+จำนวนภาพรวม: 368
 ## วิธีที่ใช้
 - ทำการตีกรอบรูปภาพโดยและแบ่ง train 70,val 15, test 15 โดย https://roboflow.com/
-- ใช้ Model Objct Detection YOLO ในการสร้าง model และวัดผลโดย Mean Average Precision (mAP)
+- ใช้ Model Objct Detection YOLO (You Only Look Once)ในการสร้าง model และวัดผลโดย Mean Average Precision (mAP)
 - mAP สามารถวัดผลได้ทั้ง accuracy ของการตีกรอบ object detection และการ label class
 - เปรียบเทียบ model YOLOv5, YOLOv8 50 epoch และ 75 epoch
 
