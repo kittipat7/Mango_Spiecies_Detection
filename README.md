@@ -17,5 +17,5 @@ validation set
 ![image](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/0ad2a6ce-942b-433e-b287-86d97e6b6ca2)  ![image](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/0d70e468-557d-4d83-838e-0b77d5f3542e)
 
 
-จากผลลัพธ์ที่ได้พบว่าตัว YOLOv8 มีประสิทธิภาพที่สูงกว่า YOLOv5 โดย YOLOv8 มี
+จากผลลัพธ์ที่ได้พบว่าตัว YOLOv8 มีประสิทธิภาพที่สูงกว่า YOLOv5 โดย YOLOv8 มี mAP50 อยู่ที่ 0.995 และมี mAP50-95 อยู่ที่ 0.954
 
