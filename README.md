@@ -12,8 +12,9 @@
 ![75](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/789baa86-3726-433f-a7cd-0ea1b2e5ebb8)
 
 ## สรุปผล
-
-
 validation set
+
 ![image](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/e3ed6b80-42e9-4402-8a82-f50b2306c7a1) 	![image](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/113916c7-251a-492d-baa1-82a6cef9a661)
+
+จากผลลัพธ์ที่ได้พบว่าตัว YOLOv8 มีประสิทธิภาพที่สูงกว่า YOLOv5 โดย YOLOv8 มี
 
