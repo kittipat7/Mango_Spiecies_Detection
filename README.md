@@ -6,6 +6,7 @@
 ## วิธีที่ใช้
 - ทำการตีกรอบรูปภาพโดยและแบ่ง train 70,val 15, test 15 โดย https://roboflow.com/
 - ใช้ Model Objct Detection YOLO ในการสร้าง model และวัดผลโดย Mean Average Precision (mAP)
+- mAP สามารถวัดผลได้ทั้ง accuracy ของการตีกรอบ object detection และการ label class
 - เปรียบเทียบ model YOLOv5, YOLOv8 50 epoch และ 75 epoch
 
 ## ตัวอย่างผลลัพธ์การนำไปใช้งาน
