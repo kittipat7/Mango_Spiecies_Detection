@@ -20,3 +20,7 @@
 
 จากผลลัพธ์ที่ได้พบว่าตัว YOLOv8 มีประสิทธิภาพที่สูงกว่า YOLOv5 โดย YOLOv8 มี mAP50 อยู่ที่ 0.995 และมี mAP50-95 อยู่ที่ 0.954
 
+## Reference
+https://roboflow.com/
+https://github.com/ultralytics/yolov5
+https://github.com/ultralytics/ultralytics
