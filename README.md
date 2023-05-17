@@ -12,7 +12,7 @@
 ![75](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/789baa86-3726-433f-a7cd-0ea1b2e5ebb8)
 
 ## สรุปผล
-validation set
+### validation set
 
 ![image](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/0ad2a6ce-942b-433e-b287-86d97e6b6ca2)  ![image](https://github.com/kittipat7/Mango_Spiecies_Detection/assets/97491541/0d70e468-557d-4d83-838e-0b77d5f3542e)
 
